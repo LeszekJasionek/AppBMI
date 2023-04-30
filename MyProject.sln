@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyProject", "MyProject\MyPr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyProject.GUI", "MyProject.GUI\MyProject.GUI.csproj", "{C9CBD2D4-BF92-42A6-A2A3-7C7CC44B685C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProject.Tests", "MyProject.Tests\MyProject.Tests.csproj", "{0EB77097-7F64-40FF-9184-80908C41358F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyProject.Tests", "MyProject.Tests\MyProject.Tests.csproj", "{0EB77097-7F64-40FF-9184-80908C41358F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

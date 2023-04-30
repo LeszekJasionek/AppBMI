@@ -2,16 +2,14 @@ using System.Text;
 
 namespace MyProject.Tests
 {
-    public class UnitTest1
+    public class StringBuilderTests
     {
         [Fact]
-        public void Test1()
+        public void Append_ForTwoStrings_ReturnsConcatenatedString()
         {
             // arrange 
 
             StringBuilder sb = new StringBuilder();
-
-
 
             // act
 
@@ -22,10 +20,7 @@ namespace MyProject.Tests
 
             // assert
 
-
             Assert.Equal("testtest2", result);
-
-             
 
         }
     }
